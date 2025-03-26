@@ -22,15 +22,15 @@ This is a repository to showcase my skills in the following topics: SQL, Power B
 In this section, I will list business intelligence analysis projects describing the technology and skills utilized to solve cases.
 
 ### Project 1
-**Project Link**: 
+**Project Link**: https://github.com/keshavramesh2/Portfolio-Projects/blob/main/company-aquisition-analysis.sql
 
 **Goal**: 
 
-**Description**: The project focused on 
+**Description**: The dataset contains company acquisition records, including funds, funding_rounds, companies, and employees. This project involved utilizing my experience in BIA and SQL to perform EDA. 
 
-**Skills**:
+**Skills**: Exploratory Data Analysis (EDA), Joins, Aggregation Functions
 
-**Technology**:
+**Technology**: SQL
 
 **Results**:
 
