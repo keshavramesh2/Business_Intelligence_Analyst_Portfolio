@@ -60,7 +60,7 @@ In this section, I will list business intelligence analysis projects describing 
 **Results**: 
 
 ### Zomato Restaurant Sales Performance
-**Project Link**: https://public.tableau.com/app/profile/keshav.ramesh3978/viz/FinalProject_17423915329530/RatingsvsSales
+**Project Link**: [Zomato Restaurant Sales Performance](https://public.tableau.com/app/profile/keshav.ramesh3978/viz/FinalProject_17423915329530/RatingsvsSales)
 
 **Goal**: Deliver an analytical dashboard focused on identifying patterns and trends to inform business decisions on sales performance improvement.
 
@@ -73,13 +73,12 @@ In this section, I will list business intelligence analysis projects describing 
 **Results**: The analysis revealed that specific cuisines (e.g. Chinese, North Indian) have consistently generated the highest revenue among other cuisines over time. Furthermore, restaurants rated at least a 3.5 and have at least 20 ratings, consistently outperform other restaurants in terms of sales volume. As a result, I recommended leveraging high-performing cuisines in marketing campaigns. Additionally, I recommended Zomato to incentivizing restaurants to prioritize their ratings by creating ratings-based campaign lists within the app.
 
 
-
 ## Education & Certificates
-- Texas Tech University B.S. Leadership Studies - GPA 4.0
+- Texas Tech University B.S. Leadership Studies - GPA 4.0 (July 2025)
 - Texas Tech University - Computer Science (120 Hours) - GPA: 3.73
 - Certificate - Business Intelligence Analytics - TripleTen
 - Certificate - SQL - TripleTen
 
 ### Contact
 - Email: keshavramesh.w@gmail.com
-- LinkedIn: https://www.linkedin.com/in/keshav-ramesh1/
+- [LinkedIn](https://www.linkedin.com/in/keshav-ramesh1/)
