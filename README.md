@@ -11,6 +11,7 @@ This is a repository to showcase my skills in the following topics: SQL, Power B
 - [About](#about)
 - Portfolio Projects
   - SQL
+    - [Company Acquisition Analysis](https://github.com/keshavramesh2/Business_Intelligence_Analyst_Portfolio/edit/main/README.md#company-acquisition-analysis)
   - Tableau
   - Power BI
   - Excel / Google Sheets
@@ -21,14 +22,12 @@ This is a repository to showcase my skills in the following topics: SQL, Power B
 ## Portfolio Projects
 In this section, I will list business intelligence analysis projects describing the technology and skills utilized to solve cases.
 
-### Project 1
+### Company Acquisition Analysis
 **Project Link**: https://github.com/keshavramesh2/Portfolio-Projects/blob/main/company-aquisition-analysis.sql
-
-**Goal**: 
 
 **Description**: The dataset contains company acquisition records, including funds, funding_rounds, companies, and employees. This project involved utilizing my experience in BIA and SQL to perform EDA. 
 
-**Skills**: Exploratory Data Analysis (EDA), Joins, Aggregation Functions
+**Skills**: Exploratory Data Analysis (EDA), Joins, Aggregate Functions
 
 **Technology**: SQL
 
