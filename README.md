@@ -24,52 +24,30 @@ In this section, I will list business intelligence analysis projects describing 
 
 ### Company Acquisition Analysis
 **Project Link**: https://github.com/keshavramesh2/Portfolio-Projects/blob/main/company-aquisition-analysis.sql
-
 **Description**: The dataset contains company acquisition records, including funds, funding_rounds, companies, and employees. This project involved utilizing my experience in BIA and SQL to perform EDA. 
-
-**Skills**: Exploratory Data Analysis (EDA), Joins, Aggregate Functions
-
+**Skills**: Exploratory Data Analysis (EDA), Subqueries, CTE, Aggregate Functions, Joins
 **Technology**: SQL
 
-**Results**:
-
-### Project 2
-**Project Link**:
-
-**Goal**: 
-
-**Description**: 
-
-**Skills**:
-
-**Technology**:
-
-**Results**:
+### Invoice Analysis Sample
+**Project Link**: [Invoice Analysis Sample](https://github.com/keshavramesh2/Portfolio-Projects/blob/main/invoice-analysis-sample.sql)
+**Description**: The dataset contains invoice, order, and customer records. This project inolved utilizing my experience in BIA and SQL to perform EDA.
+**Skills**: Exploratory Data Analysis (EDA), Subqueries, CTE, Aggregate Functions, Joins
+**Technology**: SQL
 
 ### Return Rate Analysis
 **Project Link**: [Tableau Public - Return Rate Analysis](https://public.tableau.com/app/profile/keshav.ramesh3978/viz/Keshav_Ramesh_Project_5/ReturnRateAnalysis)
-
 **Goal**: Deliver an analytical dashboard that clearly allows stakeholders to visualize potential causes for high product return rates.
-
 **Description**: The project focused on analyzing a large dataset of store orders and returns. After applying ETL principles, relevant datasets were joined into a more accessible dataset that included customer details, order details, and return details. The project involved applying ETL principles, performing exploratory data analysis (EDA), analyzing various variables with the aim of identifying key factors influencing the issue of high return rates, and building a powerful dashboard to inform stakeholders potential causes of the high return rates they are experiencing. 
-
 **Skills**: ETL (Extract, Transform, Load), Data Analysis, Data Visualization, Data Manipulation
-
 **Technology**: Tableau
-
 **Results**: 
 
 ### Zomato Restaurant Sales Performance
 **Project Link**: [Zomato Restaurant Sales Performance](https://public.tableau.com/app/profile/keshav.ramesh3978/viz/FinalProject_17423915329530/RatingsvsSales)
-
 **Goal**: Deliver an analytical dashboard focused on identifying patterns and trends to inform business decisions on sales performance improvement.
-
 **Description**: The project focused on analyzing a large dataset of restaurants and orders in India. The project involved loading the data, cleaning & preprocessing it using PowerQuery, performing exploratory data analysis (EDA), analyzing the correlation between ratings, cuisine type and sales, and building an intuitive dashboard to help stakeholders make informed business decisions to improve sales processes. 
-
 **Skills**: ETL (Extract, Transform, Load), Data Analysis, Data Visualization 
-
 **Technology**: Tableau, PowerQuery
-
 **Results**: The analysis revealed that specific cuisines (e.g. Chinese, North Indian) have consistently generated the highest revenue among other cuisines over time. Furthermore, restaurants rated at least a 3.5 and have at least 20 ratings, consistently outperform other restaurants in terms of sales volume. As a result, I recommended leveraging high-performing cuisines in marketing campaigns. Additionally, I recommended Zomato to incentivizing restaurants to prioritize their ratings by creating ratings-based campaign lists within the app.
 
 
