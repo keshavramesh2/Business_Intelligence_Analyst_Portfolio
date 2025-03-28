@@ -13,7 +13,7 @@ This is a repository to showcase my skills in the following topics: SQL, Power B
   - SQL
     - [Company Acquisition Analysis](https://github.com/keshavramesh2/Business_Intelligence_Analyst_Portfolio/edit/main/README.md#company-acquisition-analysis)
     - [Invoice Analysis Sample](https://github.com/keshavramesh2/Portfolio-Projects/blob/main/invoice-analysis-sample.sql)
-    - 
+    - [Movie & Track Analysis Sample](https://github.com/keshavramesh2/Portfolio-Projects/blob/main/movietrack-analysis-sample.sql)
   - Tableau
   - Power BI
   - Excel / Google Sheets
