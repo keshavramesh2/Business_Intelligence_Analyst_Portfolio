@@ -11,12 +11,12 @@ This is a repository to showcase my skills in the following topics: SQL, Power B
 - [About](#about)
 - Portfolio Projects
   - SQL
-    - [Company Acquisition Analysis](https://github.com/keshavramesh2/Business_Intelligence_Analyst_Portfolio/edit/main/README.md#company-acquisition-analysis)
-    - [Invoice Analysis Sample](https://github.com/keshavramesh2/Business_Intelligence_Analyst_Portfolio/edit/main/README.md#invoice-analysis-sample-sql)
-    - [Movie & Track Analysis Sample](https://github.com/keshavramesh2/Business_Intelligence_Analyst_Portfolio/edit/main/README.md#movie-analysis-sample-sql)
+    - [Company Acquisition Analysis](https://github.com/keshavramesh2/Business_Intelligence_Analyst_Portfolio/blob/main/README.md#company-acquisition-analysis-sql)
+    - [Invoice Analysis Sample](https://github.com/keshavramesh2/Business_Intelligence_Analyst_Portfolio/blob/main/README.md#invoice-analysis-sample-sql)
+    - [Movie & Track Analysis Sample](https://github.com/keshavramesh2/Business_Intelligence_Analyst_Portfolio/blob/main/README.md#movie-analysis-sample-sql)
   - Tableau
-    - [Return Rate Analysis](https://github.com/keshavramesh2/Business_Intelligence_Analyst_Portfolio/edit/main/README.md#return-rate-analysis-tableau)
-    - [Zomato Restaurant Sales Performance](https://github.com/keshavramesh2/Business_Intelligence_Analyst_Portfolio/edit/main/README.md#zomato-restaurant-sales-performance-tableau-powerquery)   
+    - [Return Rate Analysis](https://github.com/keshavramesh2/Business_Intelligence_Analyst_Portfolio/blob/main/README.md#return-rate-analysis-tableau)
+    - [Zomato Restaurant Sales Performance](https://github.com/keshavramesh2/Business_Intelligence_Analyst_Portfolio/blob/main/README.md#zomato-restaurant-sales-performance-tableau-powerquery)   
   - Power BI
   - Excel / Google Sheets
 - [Education](#education)
