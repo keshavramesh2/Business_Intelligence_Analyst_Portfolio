@@ -12,6 +12,8 @@ This is a repository to showcase my skills in the following topics: SQL, Power B
 - Portfolio Projects
   - SQL
     - [Company Acquisition Analysis](https://github.com/keshavramesh2/Business_Intelligence_Analyst_Portfolio/edit/main/README.md#company-acquisition-analysis)
+    - [Invoice Analysis Sample](https://github.com/keshavramesh2/Portfolio-Projects/blob/main/invoice-analysis-sample.sql)
+    - 
   - Tableau
   - Power BI
   - Excel / Google Sheets
@@ -36,7 +38,17 @@ In this section, I will list business intelligence analysis projects describing 
 
 **Project Link**: [Invoice Analysis Sample](https://github.com/keshavramesh2/Portfolio-Projects/blob/main/invoice-analysis-sample.sql)
 
-**Description**: The dataset contains invoice, order, and customer records. This project inolved utilizing my experience in BIA and SQL to perform EDA.
+**Description**: The dataset contains invoice, order, and customer records across various tables. This project inolved utilizing my experience in BIA and SQL to perform EDA.
+
+**Skills**: Exploratory Data Analysis (EDA), Subqueries, CTE, Aggregate Functions, Joins
+
+**Technology**: SQL
+
+### Movie Analysis Sample
+
+**Project Link**: [Movie & Track Analysis Sample](https://github.com/keshavramesh2/Portfolio-Projects/blob/main/movietrack-analysis-sample.sql)
+
+**Description**: The dataset contains movie and track records across various tables. This project inolved utilizing my experience in BIA and SQL to perform EDA.
 
 **Skills**: Exploratory Data Analysis (EDA), Subqueries, CTE, Aggregate Functions, Joins
 
