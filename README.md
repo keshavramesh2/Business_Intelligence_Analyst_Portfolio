@@ -15,6 +15,8 @@ This is a repository to showcase my skills in the following topics: SQL, Power B
     - [Invoice Analysis Sample](https://github.com/keshavramesh2/Portfolio-Projects/blob/main/invoice-analysis-sample.sql)
     - [Movie & Track Analysis Sample](https://github.com/keshavramesh2/Portfolio-Projects/blob/main/movietrack-analysis-sample.sql)
   - Tableau
+    - [Return Rate Analysis](https://public.tableau.com/app/profile/keshav.ramesh3978/viz/Keshav_Ramesh_Project_5/ReturnRateAnalysis)
+    - [Zomato Restaurant Sales Performance](https://public.tableau.com/app/profile/keshav.ramesh3978/viz/FinalProject_17423915329530/RatingsvsSales)   
   - Power BI
   - Excel / Google Sheets
 - [Education](#education)
@@ -24,7 +26,7 @@ This is a repository to showcase my skills in the following topics: SQL, Power B
 ## Portfolio Projects
 In this section, I will list business intelligence analysis projects describing the technology and skills utilized to solve cases.
 
-### Company Acquisition Analysis
+### Company Acquisition Analysis (SQL)
 
 **Project Link**: https://github.com/keshavramesh2/Portfolio-Projects/blob/main/company-aquisition-analysis.sql
 
@@ -34,7 +36,7 @@ In this section, I will list business intelligence analysis projects describing 
 
 **Technology**: SQL
 
-### Invoice Analysis Sample
+### Invoice Analysis Sample (SQL)
 
 **Project Link**: [Invoice Analysis Sample](https://github.com/keshavramesh2/Portfolio-Projects/blob/main/invoice-analysis-sample.sql)
 
@@ -44,7 +46,7 @@ In this section, I will list business intelligence analysis projects describing 
 
 **Technology**: SQL
 
-### Movie Analysis Sample
+### Movie Analysis Sample (SQL)
 
 **Project Link**: [Movie & Track Analysis Sample](https://github.com/keshavramesh2/Portfolio-Projects/blob/main/movietrack-analysis-sample.sql)
 
@@ -54,7 +56,7 @@ In this section, I will list business intelligence analysis projects describing 
 
 **Technology**: SQL
 
-### Return Rate Analysis
+### Return Rate Analysis (Tableau)
 
 **Project Link**: [Tableau Public - Return Rate Analysis](https://public.tableau.com/app/profile/keshav.ramesh3978/viz/Keshav_Ramesh_Project_5/ReturnRateAnalysis)
 
@@ -68,7 +70,7 @@ In this section, I will list business intelligence analysis projects describing 
 
 **Results**: 
 
-### Zomato Restaurant Sales Performance
+### Zomato Restaurant Sales Performance (Tableau, PowerQuery)
 
 **Project Link**: [Zomato Restaurant Sales Performance](https://public.tableau.com/app/profile/keshav.ramesh3978/viz/FinalProject_17423915329530/RatingsvsSales)
 
