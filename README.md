@@ -48,7 +48,7 @@ In this section, I will list business intelligence analysis projects describing 
 
 ### Movie Analysis Sample (SQL)
 
-**Project Link**: [Movie & Track Analysis Sample](https://github.com/keshavramesh2/Portfolio-Projects/blob/main/movietrack-analysis-sample.sql)
+**Project Link**: [Movie & Track Analysis Sample](https://github.com/keshavramesh2/Business_Intelligence_Analyst_Portfolio/blob/main/movietrack-analysis-sample.sql)
 
 **Description**: The dataset contains movie and track records across various tables. This project inolved utilizing my experience in BIA and SQL to perform EDA.
 
