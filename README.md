@@ -28,7 +28,7 @@ In this section, I will list business intelligence analysis projects describing 
 
 ### Company Acquisition Analysis (SQL)
 
-**Project Link**: https://github.com/keshavramesh2/Business_Intelligence_Analyst_Portfolio/blob/main/company-acquisition-analysis.sql
+**Project Link**: [Company Acquisition Analysis](https://github.com/keshavramesh2/Business_Intelligence_Analyst_Portfolio/blob/main/company-acquisition-analysis.sql)
 
 **Description**: The dataset contains company acquisition records, including funds, funding_rounds, companies, and employees. This project involved utilizing my experience in BIA and SQL to perform EDA. 
 
@@ -38,7 +38,7 @@ In this section, I will list business intelligence analysis projects describing 
 
 ### Invoice Analysis Sample (SQL)
 
-**Project Link**: [Invoice Analysis Sample](https://github.com/keshavramesh2/Portfolio-Projects/blob/main/invoice-analysis-sample.sql)
+**Project Link**: [Invoice Analysis Sample](https://github.com/keshavramesh2/Business_Intelligence_Analyst_Portfolio/blob/main/invoice-analysis-sample.sql)
 
 **Description**: The dataset contains invoice, order, and customer records across various tables. This project inolved utilizing my experience in BIA and SQL to perform EDA.
 
