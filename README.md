@@ -28,7 +28,7 @@ In this section, I will list business intelligence analysis projects describing 
 
 ### Company Acquisition Analysis (SQL)
 
-**Project Link**: https://github.com/keshavramesh2/Portfolio-Projects/blob/main/company-aquisition-analysis.sql
+**Project Link**: https://github.com/keshavramesh2/Business_Intelligence_Analyst_Portfolio/blob/main/company-acquisition-analysis.sql
 
 **Description**: The dataset contains company acquisition records, including funds, funding_rounds, companies, and employees. This project involved utilizing my experience in BIA and SQL to perform EDA. 
 
