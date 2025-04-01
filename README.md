@@ -19,7 +19,7 @@ This is a repository to showcase my skills in the following topics: SQL, Power B
     - [Zomato Restaurant Sales Performance](https://github.com/keshavramesh2/Business_Intelligence_Analyst_Portfolio/blob/main/README.md#zomato-restaurant-sales-performance-tableau-powerquery)   
   - Power BI
   - Excel / Google Sheets
-- [Education](#education-and-certificates)
+- [Education](#education--certificates)
 - [Contact](#contact)
 
 ## Portfolio Projects
