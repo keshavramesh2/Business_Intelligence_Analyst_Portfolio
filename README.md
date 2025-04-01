@@ -9,7 +9,7 @@ This is a repository to showcase my skills in the following topics: SQL, Power B
 
 ## Table of Contents
 - [About](#about)
-- Portfolio Projects
+- [Portfolio Projects](#portfolio-projects)
   - SQL
     - [Company Acquisition Analysis](https://github.com/keshavramesh2/Business_Intelligence_Analyst_Portfolio/blob/main/README.md#company-acquisition-analysis-sql)
     - [Invoice Analysis Sample](https://github.com/keshavramesh2/Business_Intelligence_Analyst_Portfolio/blob/main/README.md#invoice-analysis-sample-sql)
